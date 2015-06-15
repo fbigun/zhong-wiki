@@ -1,0 +1,1 @@
+![http://new-media.djangobook.com/content/en/1.0/chapter03/get_response.png](http://new-media.djangobook.com/content/en/1.0/chapter03/get_response.png)
